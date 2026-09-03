@@ -3,14 +3,14 @@
 </div>
 
 <p align="center">
-  <b>Dasturlasni o'rganayotgan bola</b><br>
-  <i>Foydalanuvchi uchun qulay, tezkor veb-ilovalar yarataman hamda dasturlash va robototexnika sirlarini o'rgataman.</i>
+  <b>new start-up entrepreneur | Frintend Developer</b><br>
+  <i>O`z o`rganayotgan bilimlarimni tatbiq qilib,sizlarga ham o`rgatishga harakat qilaman</i>
 </p>
 
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a></a>
+  <a></a>
+  <a></a>
 </p>
 
 ---
@@ -18,9 +18,9 @@
 ### 👨‍💻 Men haqimda
 
 - 🌐 Asosan **React** va **Next.js** ekotizimida zamonaviy foydalanuvchi interfeyslari (UI/UX) yaratishga ixtisoslashganman.
-- 🤖 Hardware va IoT yo‘nalishlariga qiziqaman — **Arduino**, **ESP32** va turli sensorlar yordamida aqlli qurilmalar prototiplarini yarataman.
-- 👨‍🏫 Yoshlarga IT, dasturlash asoslari va robototexnika bo‘yicha amaliy bilim berib kelaman.
-- 💡 Yangi texnologiyalarni o‘rganish, open-source loyihalarda qatnashish va murakkab masalalarga toza kod orqali yechim topishni yaxshi ko‘raman.
+- 🤖 hozirda Grafik Dizaynni logolar va reklamalar yonalishini boshlamoqchiman
+- 👨‍🏫 Hozirda IT, dasturlash asoslari va grafik dizayn bo‘yicha amaliy bilimlarni olib kelyabman.
+- 💡 Yangi texnologiyalarni o‘rganish, start-up loyihalarda  qatnashish va murakkab masalalarga toza kod orqali yechim topishni yaxshi ko‘raman.
 
 ---
 
@@ -35,17 +35,9 @@
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-#### **Robotics & IoT**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-#### **Tools & Workflow**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+
 
 ---
 
