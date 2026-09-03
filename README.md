@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <b>new start-up entrepreneur | Frintend Developer</b><br>
+  <b>new start-up entrepreneur | Frontend Developer</b><br>
   <i>O`z o`rganayotgan bilimlarimni tatbiq qilib,sizlarga ham o`rgatishga harakat qilaman</i>
 </p>
 
